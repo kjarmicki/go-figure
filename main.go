@@ -1,6 +1,7 @@
 package main
 
 func main() {
+	Warmup()
 	// NilSlice()
 	// SliceCopy()
 	// FullHouse()
@@ -8,5 +9,5 @@ func main() {
 	// MarshalTimedEvent()
 	// MapInsert()
 	// NilSlice()
-	AccountBalance()
+	// AccountBalance()
 }
